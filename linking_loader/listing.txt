@@ -1,0 +1,16 @@
+
+
+CSECT	SYMBOL	ADDRESS	LENGTH
+
+PROG_A		 4000	  63
+	LISTA	 4040
+	ENDA	 4054
+	LISTB	 40c3
+	ENDB	 40d3
+-------------------------------
+
+PROG_C		 40e2	  51
+	LISTC	 4112
+	ENDC	 4124
+-------------------------------
+

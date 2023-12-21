@@ -284,10 +284,10 @@ int main()
                         to_put_bin += std::bitset<4>(get_hex_bit).to_string();
                     }
 
-                    // output_file << start_addr_for_text_record << '\t' << to_put_hex << '\t' << to_put_bin << '\n';
+                    output_file << start_addr_for_text_record << '\t' << to_put_hex << '\t' << to_put_bin << '\n';
 
                     // will only output the bytes in hex, not in binary
-                    output_file << start_addr_for_text_record << '\t' << to_put_hex << '\n';
+                    //output_file << start_addr_for_text_record << '\t' << to_put_hex << '\n';
                     std::istringstream addr_resolution(start_addr_for_text_record);
                     addr_resolution >> std::hex >> next_addr;
                     next_addr += 1;
@@ -300,9 +300,11 @@ int main()
                     oss.str("");
                     it += 2;
                 }
+                output_file << '\n';
 
                 next_target = to_stop;
             }
+            output_file << "\n\n";
         }
         else
             continue;

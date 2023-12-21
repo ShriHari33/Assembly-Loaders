@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/float33/University/5th/System_software/relocatable_loader/cmake-build-debug"
+			"value" : "/home/float33/University/5th/System_software/Loaders/linking_loader/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/float33/University/5th/System_software/relocatable_loader/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/float33/University/5th/System_software/Loaders/linking_loader/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -603,7 +603,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/float33/University/5th/System_software/relocatable_loader"
+			"value" : "/home/float33/University/5th/System_software/Loaders/linking_loader"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -843,7 +843,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "relocatable_loader"
+			"value" : "linking_loader"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1138,7 +1138,7 @@
 			"value" : "TRUE"
 		},
 		{
-			"name" : "relocatable_loader_BINARY_DIR",
+			"name" : "linking_loader_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1147,10 +1147,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/float33/University/5th/System_software/relocatable_loader/cmake-build-debug"
+			"value" : "/home/float33/University/5th/System_software/Loaders/linking_loader/cmake-build-debug"
 		},
 		{
-			"name" : "relocatable_loader_IS_TOP_LEVEL",
+			"name" : "linking_loader_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1162,7 +1162,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "relocatable_loader_SOURCE_DIR",
+			"name" : "linking_loader_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1171,7 +1171,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/float33/University/5th/System_software/relocatable_loader"
+			"value" : "/home/float33/University/5th/System_software/Loaders/linking_loader"
 		}
 	],
 	"kind" : "cache",

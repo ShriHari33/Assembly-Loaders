@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/float33/University/5th/System_software/relocatable_loader/cmake-build-debug",
-		"source" : "/home/float33/University/5th/System_software/relocatable_loader"
+		"build" : "/home/float33/University/5th/System_software/Loaders/relocatable_loader/cmake-build-debug",
+		"source" : "/home/float33/University/5th/System_software/Loaders/relocatable_loader"
 	},
 	"version" : 
 	{
